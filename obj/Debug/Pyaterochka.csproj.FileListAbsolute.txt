@@ -1,0 +1,10 @@
+E:\project\Pyaterochka\bin\Debug\Pyaterochka.exe.config
+E:\project\Pyaterochka\bin\Debug\Pyaterochka.exe
+E:\project\Pyaterochka\bin\Debug\Pyaterochka.pdb
+E:\project\Pyaterochka\obj\Debug\Pyaterochka.csprojAssemblyReference.cache
+E:\project\Pyaterochka\obj\Debug\Pyaterochka.Form1.resources
+E:\project\Pyaterochka\obj\Debug\Pyaterochka.Properties.Resources.resources
+E:\project\Pyaterochka\obj\Debug\Pyaterochka.csproj.GenerateResource.cache
+E:\project\Pyaterochka\obj\Debug\Pyaterochka.csproj.CoreCompileInputs.cache
+E:\project\Pyaterochka\obj\Debug\Pyaterochka.exe
+E:\project\Pyaterochka\obj\Debug\Pyaterochka.pdb
